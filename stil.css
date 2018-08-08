@@ -1,0 +1,12 @@
+.blok1{
+	border: solid 2px red; 
+	width: 200px; 
+	float: left; 
+	padding: 10px
+}
+td {
+	text-align: center !important; /* tüm tdleri ortalama */ 
+}
+.ortala {
+	text-align: center;
+}
